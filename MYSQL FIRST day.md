@@ -13,4 +13,4 @@
 ### Tanenbaum：Minix开发者；
 ### Linus Torvalds：Linux之父，芬兰赫尔辛基大学；
 ### 马克·舍特尔沃斯 ubuntu的创始人。
-## 安装了linux虚拟机，练习操作
+## 安装了linux虚拟机，练习操作，熟悉虚拟机的使用
