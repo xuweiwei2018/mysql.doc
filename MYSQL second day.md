@@ -15,6 +15,12 @@
 ### p: 粘贴内容到游标之后
 ### P: 粘贴内容到游标之前
 ## 学习了linux文件的基本操作
-#### touch  file：创建文件
-#### ls -al  .:列出目录列表
-#### cat  file 目录中查找文件
+### touch  file：创建文件
+### ls -al  .:列出目录列表
+### cat  file 目录中查找文件
+## 安装git，创建库
+### sudo apt-get install git：进行安装git工具
+### git init Initialized empty Git repository in /home/user/html/.git/使用git init命令, 将当前目录创建成git仓库
+### git status 查看状态
+### git commit 提交 
+### git log 查看提交信息
