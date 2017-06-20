@@ -4,8 +4,9 @@
 ### git push origin master 同步master分支
 ### is-ia 查看是否有.git，是否有仓库创建成功
 ## git 分支的学习
+If you want to embed images, this is how you do it:
 
-### ![Image of Yaktocat]（https://nts.newbieol.com/static/k6/02.git-github-markdown/class-003/images/workflow.png）
+![Image of Git Workflow]（https://nts.newbieol.com/static/k6/02.git-github-markdown/class-003/images/workflow.png）
 ### git branch branch-name 创建分支
 ### git checkout -b branch-name 可以从任何的地方创建分支, 并切换到新创建的分支上
 ### git branch -av 显示分支
