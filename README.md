@@ -9,4 +9,4 @@
 ### [第八天](20170619.md)
 # 学生信息管理系统
 ### [课程设计](sheji.md)
-### [源代码](stuinfo)
+### [源代码](https://github.com/xuweiwei2018/stuinfo)
